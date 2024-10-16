@@ -28,4 +28,5 @@ public class Bloc {
     @ToString.Exclude
     Set<Chambre> Chambres = new HashSet<>();
 //new comment
+//second comment
 }
